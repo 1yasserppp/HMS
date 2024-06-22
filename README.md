@@ -53,7 +53,7 @@ Hospital Management System using MySQL, Php and Bootstrap
 
 
 ## GETTING INTO THE PROJECT:
-Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly.
+Hospital Management System in php and mysql. This system has a ‘registration ’ page from where the patient, doctor & administrator can login into their accounts by toggling the tabs accordingly.
 
 
 #
